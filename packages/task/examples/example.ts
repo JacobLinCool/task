@@ -19,9 +19,7 @@ async function main() {
 			if (task.completed) {
 				break;
 			}
-			task.update((state) => {
-				return { progress: state.progress + 1 };
-			});
+			task.update((state) => ({ progress: state.progress + 1 }));
 		}
 	})();
 
