@@ -2,7 +2,7 @@
 	"private": true,
 	"name": "@jacoblincool/task",
 	"description": "A mix of eventemitter and promise.",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"author": "JacobLinCool <jacoblincool@gmail.com> (https://jacoblin.cool)",
 	"license": "MIT",
 	"keywords": [],
