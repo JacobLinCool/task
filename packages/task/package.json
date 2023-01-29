@@ -1,5 +1,4 @@
 {
-	"private": true,
 	"name": "@jacoblincool/task",
 	"description": "A mix of eventemitter and promise.",
 	"version": "1.0.0",
