@@ -36,3 +36,20 @@ async function main() {
     console.log("All done!");
 }
 ```
+
+Output:
+
+```ts
+❯ tsx examples/example.ts
+{ progress: 1 }
+{ progress: 2 }
+{ progress: 3 }
+{ progress: 4 }
+{ progress: 5 }
+{ progress: 6 }
+{ progress: 7 }
+{ progress: 8 }
+{ progress: 9 }
+{ success: true, result: 'done' }
+All done!
+```
